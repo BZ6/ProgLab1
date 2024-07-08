@@ -2,7 +2,7 @@
 
 # Task
 
-![image](https://github.com/BZ6/ProgLab1/assets/85627560/304d195d-ae35-4f4c-a262-8a41a8b00d16)
+![image](https://github.com/BZ6/ProgLab1/assets/85627560/e839eaf0-0ab2-49ad-9238-8f73ce6e55ac)
 
 # Output
 
